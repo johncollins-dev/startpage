@@ -1,0 +1,37 @@
+[
+    {
+        "title": "dev",
+        "links": [
+            { "label": "code-server", "url": "https://code.node804" },
+            { "label": "gitea", "url": "https://git.node804" },
+            { "label": "pgAdmin", "url": "https://pgadmin.node804" },
+            { "label": "nextcloud", "url": "https://cloud.node804" },
+            { "label": "github", "url": "https://github.com/" },
+            { "label": "claude", "url": "https://claude.ai/new" }
+        ]
+    },
+    {
+        "title": "media",
+        "links": [
+            { "label": "jellyfin", "url": "https://tv.node804" },
+            { "label": "airsonic", "url": "https://music.node804" },
+            { "label": "ttrss", "url": "https://rss.node804" },
+            { "label": "kavita", "url": "https://books.node804" },
+            { "label": "qbittorrent", "url": "https://qb.node804" },
+            { "label": "streameast", "url": "https://streamseast.ac/" }
+        ]
+    },
+    {
+        "title": "wikis",
+        "links": [
+            { "label": "elder scrolls", "url": "https://en.uesp.net/wiki/Main_Page" },
+            { "label": "touhou", "url": "https://en.touhouwiki.net/wiki/Touhou_Wiki" },
+            { "label": "halo", "url": "https://www.halopedia.org/" },
+            { "label": "doom", "url": "https://doomwiki.org/wiki/Entryway" },
+            { "label": "installgentoo", "url": "https://igwiki.lyci.de/wiki/Main_Page" },
+            { "label": "bogleheads", "url": "https://www.bogleheads.org/wiki/Main_Page" }
+        ]
+    }
+]
+
+
